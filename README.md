@@ -8,16 +8,16 @@
 
 *Zixiang Zhao, Shuang Xu, Chunxia Zhang, Junmin Liu, Jiangshe Zhang, Bayesian fusion for infrared and visible images, Signal Processing, Volume 177, 2020, 107734, ISSN 0165-1684, https://doi.org/10.1016/j.sigpro.2020.107734.*
 
-```latex
+```
 @article{ZHAO2020Bayesian,
-    title = "Bayesian fusion for infrared and visible images",
-    author = "Zixiang Zhao and Shuang Xu and Chunxia Zhang and Junmin Liu and Jiangshe Zhang",
-    journal = "Signal Processing",
-    volume = "177",
-    pages = "107734",
-    year = "2020",
-    issn = "0165-1684",
-    doi = "https://doi.org/10.1016/j.sigpro.2020.107734",    
+    title = {Bayesian fusion for infrared and visible images},
+    author = {Zixiang Zhao and Shuang Xu and Chunxia Zhang and Junmin Liu and Jiangshe Zhang},
+    journal = {Signal Processing},
+    volume = {177},
+    pages = {107734},
+    year = {2020},
+    issn = {0165-1684},
+    doi = {https://doi.org/10.1016/j.sigpro.2020.107734},    
 }
 ```
 
