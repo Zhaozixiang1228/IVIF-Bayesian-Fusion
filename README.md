@@ -33,16 +33,16 @@ The function of Our *Bayesian Fusion* method can be found in 'BayesFusion.m'.
 
 ## Bayesian Fusion Methods
 
-**Illustration of our Bayesian graph model.**
+### Illustration of our Bayesian graph model.
 
 <img src="image\bayes_model.png" alt="bayes_model" title="Illustration of our Bayesian graph model." style="zoom:70%;" />
 
-**Qualitative fusion results.**
+### Qualitative fusion results.
 
 <img src="image\output_image.png" style="zoom:50%;" />
 
 
 
-**Quantitative  fusion results.**
+### Quantitative  fusion results.
 
 <img src="image\Quantitative_result.png" style="zoom:90%;" />
