@@ -9,4 +9,4 @@ Infrared and visible image fusion has been a hot issue in image fusion. In this 
 
 
 
-![bayes_model](image\bayes_model.png)
+<img src="image\bayes_model.png" alt="bayes_model" title="Illustration of our Bayesian graph model." style="zoom:50%;" />
