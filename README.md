@@ -29,7 +29,7 @@ Infrared and visible image fusion has been a hot issue in image fusion. In this 
 
 In 'demo.m' file, you will find how to generate the fuison image.
 
-The function of Our *Bayesian Fusion* method can be found in 'BayesFusion.m'.
+The function of our *Bayesian Fusion* method can be found in 'BayesFusion.m'.
 
 ## Bayesian Fusion Methods
 
